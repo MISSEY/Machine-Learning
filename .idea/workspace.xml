@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0d84037-c5c9-4cc2-8903-6970428d90a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py" afterPath="$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine-Leaning/KNN-algorithm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine-Leaning/applyingKNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Machine-Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,8 +19,10 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Machine-Learning$3CreatingSimpleRegression.coverage" NAME="3CreatingSimpleRegression Coverage Results" MODIFIED="1535928283138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
-    <SUITE FILE_PATH="coverage/Machine-Learning$R_Squared_Theory.coverage" NAME="R Squared Theory Coverage Results" MODIFIED="1535975089113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
-    <SUITE FILE_PATH="coverage/Machine-Learning$Regression.coverage" NAME="Regression Coverage Results" MODIFIED="1535916377804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
+    <SUITE FILE_PATH="coverage/Machine-Learning$KNN_algorithm.coverage" NAME="KNN-algorithm Coverage Results" MODIFIED="1536080659695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
+    <SUITE FILE_PATH="coverage/Machine-Learning$R_Squared_Theory.coverage" NAME="R Squared Theory Coverage Results" MODIFIED="1535981070593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
+    <SUITE FILE_PATH="coverage/Machine-Learning$Regression.coverage" NAME="Regression Coverage Results" MODIFIED="1535981276994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
+    <SUITE FILE_PATH="coverage/Machine-Learning$applyingKNN.coverage" NAME="applyingKNN Coverage Results" MODIFIED="1536009032797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine-Leaning" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -29,26 +33,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3CreatingSimpleRegression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Machine-Leaning/3CreatingSimpleRegression.py">
+      <file leaf-file-name="applyingKNN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine-Leaning/applyingKNN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#23#50#0" expanded="true" />
+                <element signature="e#23#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="R Squared Theory.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KNN-algorithm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine-Leaning/KNN-algorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5392954">
+              <caret line="60" column="13" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="13" />
+              <folding>
+                <element signature="e#23#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R Squared Theory.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5125628">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#23#50#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine-Leaning/Regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,6 +94,9 @@
       <list>
         <option value="$PROJECT_DIR$/Machine-Leaning/3CreatingSimpleRegression.py" />
         <option value="$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py" />
+        <option value="$PROJECT_DIR$/Machine-Leaning/Regression.py" />
+        <option value="$PROJECT_DIR$/Machine-Leaning/applyingKNN.py" />
+        <option value="$PROJECT_DIR$/Machine-Leaning/KNN-algorithm.py" />
       </list>
     </option>
   </component>
@@ -144,7 +171,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Python.R Squared Theory">
+  <component name="RunManager" selected="Python.KNN-algorithm">
     <configuration default="false" name="3CreatingSimpleRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,6 +222,42 @@
       <module name="Machine-Learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="applyingKNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine-Leaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine-Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine-Leaning/applyingKNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="KNN-algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine-Leaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine-Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine-Leaning/KNN-algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -381,16 +444,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.3CreatingSimpleRegression" />
       <item index="1" class="java.lang.String" itemvalue="Python.Regression" />
       <item index="2" class="java.lang.String" itemvalue="Python.R Squared Theory" />
+      <item index="3" class="java.lang.String" itemvalue="Python.applyingKNN" />
+      <item index="4" class="java.lang.String" itemvalue="Python.KNN-algorithm" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.R Squared Theory" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3CreatingSimpleRegression" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.KNN-algorithm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.applyingKNN" />
         <item index="2" class="java.lang.String" itemvalue="Python.Regression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.R Squared Theory" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3CreatingSimpleRegression" />
       </list>
     </recent_temporary>
   </component>
@@ -444,13 +511,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Machine-Leaning/Regression.py">
+    <entry file="file://$PROJECT_DIR$/Machine-Leaning/PicklingndScaling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.76884425">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -458,20 +527,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine-Leaning/3CreatingSimpleRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.2562814">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
-            <element signature="e#23#50#0" expanded="true" />
+            <element signature="e#23#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine-Leaning/R Squared Theory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5125628">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Leaning/Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Leaning/applyingKNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#23#50#0" expanded="true" />
+            <element signature="e#23#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Leaning/KNN-algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5392954">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
